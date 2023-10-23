@@ -1,0 +1,7 @@
+# Depencive
+node_modules
+
+# Build
+dist
+
+# Logs
